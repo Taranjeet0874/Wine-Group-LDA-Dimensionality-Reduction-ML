@@ -1,0 +1,2 @@
+# Wine-Group-LDA-Dimensionality-Reduction-ML
+Linear Discriminant Analysis (LDA) is a dimensionality reduction technique. As the name implies dimensionality reduction techniques reduce the number of dimensions (i.e. variables) in a dataset while retaining as much information as possible. In this project firstly LDA is used to reduce the dimensionality of the data then data is standardised after that we trained our logistic regression model and predict the customer segment based on certain features of wine content. 
